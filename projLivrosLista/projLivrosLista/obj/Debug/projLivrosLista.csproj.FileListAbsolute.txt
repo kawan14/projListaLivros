@@ -1,0 +1,16 @@
+c:\users\leon\documents\visual studio 2015\Projects\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.pdb
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.exe
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.pdb
+E:\faculdade\estrutura de dados 2\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+E:\faculdade\estrutura de dados 2\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.exe
+E:\faculdade\estrutura de dados 2\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.csprojAssemblyReference.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.csproj.CoreCompileInputs.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.pdb
